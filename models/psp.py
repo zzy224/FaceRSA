@@ -6,7 +6,6 @@ from torch import nn
 from models.encoders import psp_encoders
 from models.stylegan2.model import Generator
 
-
 def get_keys(d, name):
     if 'state_dict' in d:
         d = d['state_dict']
