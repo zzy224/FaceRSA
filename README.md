@@ -7,7 +7,7 @@ $ conda install --yes -c pytorch pytorch=1.7.1 torchvision cudatoolkit=11.0
 $ pip install pyyaml
 ```
 ### Pretrained Model
-Please download the pre-trained model from the following link.
+Please download the pre-trained model from the following link, and place it under `./model`.
 | Path | Description
 | :--- | :----------
 |[FaceRSA]()  | Our pre-trained FaceRSA model.
