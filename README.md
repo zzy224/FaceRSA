@@ -10,7 +10,7 @@ $ pip install pyyaml
 Please download the pre-trained model from the following link, and place it under `./pretrained_models/`.
 | Path | Description
 | :--- | :----------
-|[FaceRSA](https://drive.google.com/file/d/1vh1D-nhzJuh7pOcxbRUnIQe0izkTE1zk/view?usp=drive_link)  | Our pre-trained FaceRSA model.
+|[FaceRSA]()  | Our pre-trained FaceRSA model.
 ### Auxiliary Models and Latent Codes
 In addition, we provide various auxiliary models and latent codes inverted by [e4e](https://github.com/omertov/encoder4editing).
 | Path | Description
