@@ -1,0 +1,4 @@
+resolution: 1024                 
+passwd_length: 16
+mapping_layers: 4
+start_layer: 5
