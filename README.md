@@ -23,4 +23,16 @@ The results are saved in `./sample/anonymized/` and `./sample/recovered/`
 ```bash
 python inference.py
 ```
+## Citation
+```bash
+@inproceedings{zhang2024facersa,
+  title={FaceRSA: RSA-Aware Facial Identity Cryptography Framework},
+  author={Zhang, Zhongyi and Wei, Tianyi and Zhou, Wenbo and Zhao, Hanqing and Zhang, Weiming and Yu, Nenghai},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={7},
+  pages={7423--7431},
+  year={2024}
+}
+```
 Training code will be released soon.
