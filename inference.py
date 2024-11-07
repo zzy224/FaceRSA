@@ -5,7 +5,7 @@ import warnings
 from PIL import Image
 from tqdm import tqdm
 
-from options.train_options import TestOptions
+from options.test_options import TrainOptions
 from utils.function import *
 from trainer import *
 
