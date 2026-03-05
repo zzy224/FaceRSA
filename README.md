@@ -35,4 +35,3 @@ python inference.py
   year={2024}
 }
 ```
-Training code will be released soon.
